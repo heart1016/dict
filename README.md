@@ -17,6 +17,8 @@
 - ./main -text
 - 输入要查的单词即可
 
+![1.png](1.png)
+
 # 二、支持用户自添加新词
 用户添加的新词存放在指定文件中。如果待查单词在词库中找不到,则使用用户提供的词库。用户 的词库使用文本形式保存,便于用户修改。程序执行格式如下
 
@@ -27,3 +29,5 @@
 
 - ./main -text                The default word library is initialized
 - ./main -f    pathname       The custom  word library is initialized
+
+![2.png](2.png)
