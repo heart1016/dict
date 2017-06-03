@@ -27,5 +27,7 @@ Trans:a.阿比西尼亚的@n.阿比西尼亚人;衣索比亚人
 -f 为固定参数,用来指定用户词库文件名。
 
 使用时如果不指定-text 或 -f 会提示
+
 ./main -text                The default word library is initialized
+
 ./main -f    pathname       The custom  word library is initialized
